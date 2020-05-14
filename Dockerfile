@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-apiserver:v1.15.4
+FROM k8s.gcr.io/elasticsearch:v6.2.5
